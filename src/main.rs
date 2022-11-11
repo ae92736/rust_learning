@@ -7,5 +7,5 @@ fn main()
         println!("x is {}", x);
     }
     let x: i128 = 42;
-    println!("x is {}", x);
+    println!("some change x is {}", x);
 }
